@@ -1,0 +1,14 @@
+/* SPDX-License-Identifier: GPL-2.0-or-later */
+
+/* Room for the lines of titles below the overview's workspace thumbnails. */
+.workspace-thumbnails {
+  padding-bottom: 2.75em;
+}
+
+.workspace-thumbnail-titles {
+  padding-top: 0.3em;
+}
+
+.workspace-thumbnail-titles StLabel {
+  font-size: 9pt;
+}

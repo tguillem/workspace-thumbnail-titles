@@ -1,0 +1,7 @@
+{
+  "uuid": "workspace-thumbnail-titles@tguillem",
+  "name": "Workspace Thumbnail Titles",
+  "description": "Shows the titles of each workspace's first two windows below its thumbnail in the overview, and makes the thumbnails bigger to fit them.",
+  "shell-version": ["48"],
+  "url": "https://github.com/tguillem/workspace-thumbnail-titles"
+}
